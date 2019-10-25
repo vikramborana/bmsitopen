@@ -1,2 +1,0 @@
-x = "varun"
-print(x)
