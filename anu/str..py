@@ -1,4 +1,4 @@
-a="Anusree"
-print(a)
-b=input()
-print(b)
+f=open("inf_str","w+")
+while True:
+    f.write("abc")
+f.close()
