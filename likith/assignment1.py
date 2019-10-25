@@ -3,6 +3,6 @@ i=0
 a=""
 while 1:
     x=random.randrange(0,256,2)
-    a[i]=x
+    a[i]=x[i]
     i=i+1
     print(a)
