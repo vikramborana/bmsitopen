@@ -1,0 +1,2 @@
+x="rohit"
+print(x)
