@@ -1,2 +1,4 @@
-y="vishal jain hiii!!"
-print(y)
+x='abcdrf'
+f=open("junk.txt","w+")
+while True:
+    f.write(x)
